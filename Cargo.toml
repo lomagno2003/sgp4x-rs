@@ -1,7 +1,7 @@
 [package]
 name = "sgp4x"
 version = "1.0.0"
-authors = ["Lomagno Cristian <lomagno2003@gmail.com>"]
+authors = ["Cristian Lomagno <lomagno2003@gmail.com>"]
 license = "MIT OR Apache-2.0"
 description = "Rust driver for the Sensirion SGP41 gas sensor with VOC and NOx measurement capabilities."
 readme = "README.md"
