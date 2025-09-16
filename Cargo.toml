@@ -6,7 +6,7 @@ license = "MIT OR Apache-2.0"
 description = "Rust driver for the Sensirion SGP41 gas sensor with VOC and NOx measurement capabilities."
 readme = "README.md"
 repository = "https://github.com/lomagno2003/sgp4x-rs"
-keywords = ["sgp40", "sgp41", "sensirion", "driver", "voc", "nox"]
+keywords = ["sgp40", "sgp41", "sensirion", "voc", "nox"]
 categories = ["embedded", "hardware-support", "no-std"]
 edition = "2024"
 
